@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
