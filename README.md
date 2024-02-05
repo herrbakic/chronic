@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Update Roboflow segmentation Docs pages (#8094)
