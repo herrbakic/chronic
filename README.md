@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
